@@ -1,2 +1,3 @@
-# phytonsura4
-condicionales y ciclos con phyton
+#ciclos y condiciones con phyton
+
+##programado por : Fredy Andres Arroyave
